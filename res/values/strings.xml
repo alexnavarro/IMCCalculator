@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora de IMC</string>
+    <string name="action_settings">Settings</string>
+    <string name="quilogramas_metros">Quilogramas/Metros</string>
+    <string name="libras_polegadas">Libras/Polegadas</string>
+    <string name="peso">Peso:</string>
+    <string name="altura">Altura:</string>
+    <string name="exemplo_peso_quilogramas">Ex: 56.8</string>
+    <string name="exemplo_altura_metros">Ex: 1.54</string>
+    <string name="exemplo_altura_polegada">Ex: 5</string>
+    <string name="exemplo_altura_polegadas">Ex: 55</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="apostrofe">\'</string>
+    <string name="aspas">\"</string>
+
+</resources>
