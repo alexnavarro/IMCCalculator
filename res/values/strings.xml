@@ -8,6 +8,7 @@
     <string name="peso">Peso:</string>
     <string name="altura">Altura:</string>
     <string name="exemplo_peso_quilogramas">Ex: 56.8</string>
+    <string name="exemplo_peso_libras">Ex: 56.8</string>
     <string name="exemplo_altura_metros">Ex: 1.54</string>
     <string name="exemplo_altura_polegada">Ex: 5</string>
     <string name="exemplo_altura_polegadas">Ex: 55</string>
